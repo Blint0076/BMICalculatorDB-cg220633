@@ -1,2 +1,3 @@
 https://expo.dev/@cg220633/BMICalculatorDB-cg220633?serviceType=classic&distribution=expo-go
 
+https://github.com/Blint0076/BMICalculatorDB-cg220633.git
